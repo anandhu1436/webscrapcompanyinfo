@@ -1,3 +1,0 @@
-NAME:VALUES
-SEP:,
-COLUMNS:['Validated_Customer_Name', 'Master_Customer_Address_1', 'Master_Customer_Address_2','Master_Customer_City','Master_Customer_State', 'Master_Customer_Zip_Code', 'Master_Country']
